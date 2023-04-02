@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\obj\Debug\net5.0\String Manipulation and Methods.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\obj\Debug\net5.0\String Manipulation and Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\obj\Debug\net5.0\String Manipulation and Methods.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\obj\Debug\net5.0\String Manipulation and Methods.AssemblyInfo.cs
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\obj\Debug\net5.0\String Manipulation and Methods.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\bin\Debug\net5.0\String Manipulation and Methods.exe
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\bin\Debug\net5.0\String Manipulation and Methods.deps.json
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\bin\Debug\net5.0\String Manipulation and Methods.runtimeconfig.json
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\bin\Debug\net5.0\String Manipulation and Methods.runtimeconfig.dev.json
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\bin\Debug\net5.0\String Manipulation and Methods.dll
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\bin\Debug\net5.0\String Manipulation and Methods.pdb
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\obj\Debug\net5.0\String Manipulation and Methods.dll
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\obj\Debug\net5.0\refint\String Manipulation and Methods.dll
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\obj\Debug\net5.0\String Manipulation and Methods.pdb
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\obj\Debug\net5.0\String Manipulation and Methods.genruntimeconfig.cache
+C:\Users\harry\source\repos\String Manipulation and Methods\String Manipulation and Methods\obj\Debug\net5.0\ref\String Manipulation and Methods.dll

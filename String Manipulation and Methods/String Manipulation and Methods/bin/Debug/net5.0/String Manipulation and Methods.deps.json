@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "String Manipulation and Methods/1.0.0": {
+        "runtime": {
+          "String Manipulation and Methods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "String Manipulation and Methods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
