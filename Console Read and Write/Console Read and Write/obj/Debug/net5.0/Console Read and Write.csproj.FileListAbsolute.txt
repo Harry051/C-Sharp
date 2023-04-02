@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\bin\Debug\net5.0\Console Read and Write.exe
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\bin\Debug\net5.0\Console Read and Write.deps.json
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\bin\Debug\net5.0\Console Read and Write.runtimeconfig.json
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\bin\Debug\net5.0\Console Read and Write.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\bin\Debug\net5.0\Console Read and Write.dll
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\bin\Debug\net5.0\Console Read and Write.pdb
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\obj\Debug\net5.0\Console Read and Write.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\obj\Debug\net5.0\Console Read and Write.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\obj\Debug\net5.0\Console Read and Write.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\obj\Debug\net5.0\Console Read and Write.AssemblyInfo.cs
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\obj\Debug\net5.0\Console Read and Write.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\obj\Debug\net5.0\Console Read and Write.dll
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\obj\Debug\net5.0\refint\Console Read and Write.dll
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\obj\Debug\net5.0\Console Read and Write.pdb
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\obj\Debug\net5.0\Console Read and Write.genruntimeconfig.cache
+C:\Users\harry\source\repos\Console Read and Write\Console Read and Write\obj\Debug\net5.0\ref\Console Read and Write.dll

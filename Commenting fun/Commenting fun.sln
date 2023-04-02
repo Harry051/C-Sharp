@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Commenting fun", "Commenting fun\Commenting fun.csproj", "{03078DA0-9E32-4244-AC73-CEFE7770EF72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03078DA0-9E32-4244-AC73-CEFE7770EF72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03078DA0-9E32-4244-AC73-CEFE7770EF72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03078DA0-9E32-4244-AC73-CEFE7770EF72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03078DA0-9E32-4244-AC73-CEFE7770EF72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39AE3E18-1572-45F0-B3F0-395C34598B4A}
+	EndGlobalSection
+EndGlobal
