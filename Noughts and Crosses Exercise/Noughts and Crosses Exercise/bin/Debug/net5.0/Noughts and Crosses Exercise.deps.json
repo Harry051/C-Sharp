@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Noughts and Crosses Exercise/1.0.0": {
+        "runtime": {
+          "Noughts and Crosses Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Noughts and Crosses Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

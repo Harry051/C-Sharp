@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\bin\Debug\net5.0\Noughts and Crosses Exercise.exe
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\bin\Debug\net5.0\Noughts and Crosses Exercise.deps.json
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\bin\Debug\net5.0\Noughts and Crosses Exercise.runtimeconfig.json
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\bin\Debug\net5.0\Noughts and Crosses Exercise.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\bin\Debug\net5.0\Noughts and Crosses Exercise.dll
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\bin\Debug\net5.0\Noughts and Crosses Exercise.pdb
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\obj\Debug\net5.0\Noughts and Crosses Exercise.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\obj\Debug\net5.0\Noughts and Crosses Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\obj\Debug\net5.0\Noughts and Crosses Exercise.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\obj\Debug\net5.0\Noughts and Crosses Exercise.AssemblyInfo.cs
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\obj\Debug\net5.0\Noughts and Crosses Exercise.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\obj\Debug\net5.0\Noughts and Crosses Exercise.dll
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\obj\Debug\net5.0\refint\Noughts and Crosses Exercise.dll
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\obj\Debug\net5.0\Noughts and Crosses Exercise.pdb
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\obj\Debug\net5.0\Noughts and Crosses Exercise.genruntimeconfig.cache
+C:\Users\harry\source\repos\Noughts and Crosses Exercise\Noughts and Crosses Exercise\obj\Debug\net5.0\ref\Noughts and Crosses Exercise.dll
