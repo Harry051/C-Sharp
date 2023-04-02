@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.exe
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.deps.json
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.runtimeconfig.json
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.runtimeconfig.dev.json
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.dll
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.pdb
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.AssemblyInfo.cs
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.dll
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\obj\Debug\net5.0\refint\DateAndTime.dll
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.pdb
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.genruntimeconfig.cache
+C:\Users\harry\source\repos\DateAndTime\DateAndTime\obj\Debug\net5.0\ref\DateAndTime.dll

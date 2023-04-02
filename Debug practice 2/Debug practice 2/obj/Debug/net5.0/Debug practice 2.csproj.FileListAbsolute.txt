@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\bin\Debug\net5.0\Debug practice 2.exe
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\bin\Debug\net5.0\Debug practice 2.deps.json
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\bin\Debug\net5.0\Debug practice 2.runtimeconfig.json
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\bin\Debug\net5.0\Debug practice 2.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\bin\Debug\net5.0\Debug practice 2.dll
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\bin\Debug\net5.0\Debug practice 2.pdb
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\obj\Debug\net5.0\Debug practice 2.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\obj\Debug\net5.0\Debug practice 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\obj\Debug\net5.0\Debug practice 2.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\obj\Debug\net5.0\Debug practice 2.AssemblyInfo.cs
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\obj\Debug\net5.0\Debug practice 2.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\obj\Debug\net5.0\Debug practice 2.dll
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\obj\Debug\net5.0\refint\Debug practice 2.dll
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\obj\Debug\net5.0\Debug practice 2.pdb
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\obj\Debug\net5.0\Debug practice 2.genruntimeconfig.cache
+C:\Users\harry\source\repos\Debug practice 2\Debug practice 2\obj\Debug\net5.0\ref\Debug practice 2.dll
