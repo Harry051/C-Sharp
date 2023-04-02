@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\WPF01\WPF01\bin\Debug\WPF01.exe.config
+C:\Users\harry\source\repos\WPF01\WPF01\bin\Debug\WPF01.exe
+C:\Users\harry\source\repos\WPF01\WPF01\bin\Debug\WPF01.pdb
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\WPF01.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\WPF01.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\MainWindow.g.cs
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\App.g.cs
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\WPF01_MarkupCompile.cache
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\WPF01_MarkupCompile.lref
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\MainWindow.baml
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\WPF01.g.resources
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\WPF01.Properties.Resources.resources
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\WPF01.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\WPF01.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\WPF01.exe
+C:\Users\harry\source\repos\WPF01\WPF01\obj\Debug\WPF01.pdb
