@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\bin\Debug\net5.0\Members and Finalisers, Destructors.exe
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\bin\Debug\net5.0\Members and Finalisers, Destructors.deps.json
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\bin\Debug\net5.0\Members and Finalisers, Destructors.runtimeconfig.json
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\bin\Debug\net5.0\Members and Finalisers, Destructors.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\bin\Debug\net5.0\Members and Finalisers, Destructors.dll
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\bin\Debug\net5.0\Members and Finalisers, Destructors.pdb
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\obj\Debug\net5.0\Members and Finalisers, Destructors.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\obj\Debug\net5.0\Members and Finalisers, Destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\obj\Debug\net5.0\Members and Finalisers, Destructors.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\obj\Debug\net5.0\Members and Finalisers, Destructors.AssemblyInfo.cs
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\obj\Debug\net5.0\Members and Finalisers, Destructors.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\obj\Debug\net5.0\Members and Finalisers, Destructors.dll
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\obj\Debug\net5.0\refint\Members and Finalisers, Destructors.dll
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\obj\Debug\net5.0\Members and Finalisers, Destructors.pdb
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\obj\Debug\net5.0\Members and Finalisers, Destructors.genruntimeconfig.cache
+C:\Users\harry\source\repos\Members and Finalisers, Destructors\Members and Finalisers, Destructors\obj\Debug\net5.0\ref\Members and Finalisers, Destructors.dll
