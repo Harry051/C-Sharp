@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\params\params\obj\Debug\net5.0\params.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\params\params\obj\Debug\net5.0\params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\params\params\obj\Debug\net5.0\params.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\params\params\obj\Debug\net5.0\params.AssemblyInfo.cs
+C:\Users\harry\source\repos\params\params\obj\Debug\net5.0\params.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\params\params\bin\Debug\net5.0\params.exe
+C:\Users\harry\source\repos\params\params\bin\Debug\net5.0\params.deps.json
+C:\Users\harry\source\repos\params\params\bin\Debug\net5.0\params.runtimeconfig.json
+C:\Users\harry\source\repos\params\params\bin\Debug\net5.0\params.runtimeconfig.dev.json
+C:\Users\harry\source\repos\params\params\bin\Debug\net5.0\params.dll
+C:\Users\harry\source\repos\params\params\bin\Debug\net5.0\params.pdb
+C:\Users\harry\source\repos\params\params\obj\Debug\net5.0\params.dll
+C:\Users\harry\source\repos\params\params\obj\Debug\net5.0\refint\params.dll
+C:\Users\harry\source\repos\params\params\obj\Debug\net5.0\params.pdb
+C:\Users\harry\source\repos\params\params\obj\Debug\net5.0\params.genruntimeconfig.cache
+C:\Users\harry\source\repos\params\params\obj\Debug\net5.0\ref\params.dll
