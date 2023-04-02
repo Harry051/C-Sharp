@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\bin\Debug\Dependency Properties.exe.config
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\bin\Debug\Dependency Properties.exe
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\bin\Debug\Dependency Properties.pdb
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\MainWindow.g.cs
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\App.g.cs
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties_MarkupCompile.cache
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties_MarkupCompile.lref
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\MainWindow.baml
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.g.resources
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\Dependency_Properties.Properties.Resources.resources
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.exe
+C:\Users\harry\source\repos\Dependency Properties\Dependency Properties\obj\Debug\Dependency Properties.pdb
