@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\bin\Debug\StackPanel and ListBox.exe.config
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\bin\Debug\StackPanel and ListBox.exe
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\bin\Debug\StackPanel and ListBox.pdb
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\StackPanel and ListBox.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\StackPanel and ListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\MainWindow.g.cs
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\App.g.cs
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\StackPanel and ListBox_MarkupCompile.cache
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\StackPanel and ListBox_MarkupCompile.lref
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\MainWindow.baml
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\StackPanel and ListBox.g.resources
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\StackPanel_and_ListBox.Properties.Resources.resources
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\StackPanel and ListBox.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\StackPanel and ListBox.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\StackPanel and ListBox.exe
+C:\Users\harry\source\repos\StackPanel and ListBox\StackPanel and ListBox\obj\Debug\StackPanel and ListBox.pdb
