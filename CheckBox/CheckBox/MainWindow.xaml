@@ -1,0 +1,26 @@
+﻿<Window x:Class="CheckBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CheckBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Label FontWeight="Bold">Pizza Toppings</Label>
+        <CheckBox Name="cbAllToppings" Checked="cbAllTopings_Checked" Content="Add All :)" IsThreeState="True"/><!-- 3state connects it to other checkboxes. Allows all,some or none -->
+        <StackPanel Margin="6">
+            <CheckBox Name="cbPepperoni" Checked="cbSingle_Checked" Unchecked="cbSingle_Checked">
+                <TextBlock>Pepperoni <Run Foreground="Red" FontWeight="Bold">Spicy</Run></TextBlock>
+            </CheckBox>
+            <CheckBox Name="cbOnions" Content="Onions" Checked="cbSingle_Checked" Unchecked="cbSingle_Checked"/>
+            <CheckBox Name="cbPeppers" Content="Peppers" Checked="cbSingle_Checked" Unchecked="cbSingle_Checked"/>
+            <CheckBox Name="cbPineapple" Content="Pineapple" Checked="cbSingle_Checked" Unchecked="cbSingle_Checked"/>
+            <CheckBox Name="cbHam" Content="Ham" Checked="cbSingle_Checked" Unchecked="cbSingle_Checked"/>
+            <CheckBox Name="cbVeganCheese" Checked="cbSingle_Checked" Unchecked="cbSingle_Checked">
+                <TextBlock>Vegan Cheese <Run Foreground="Green" FontWeight="SemiBold">Plant-based</Run></TextBlock>
+            </CheckBox>
+            <Button ToolTip="I'm a tool tip :) I'm useful!" Height="60" Width="160" HorizontalAlignment="Left" Margin="20">Hover for more info...</Button>
+        </StackPanel>
+    </StackPanel>
+</Window>
