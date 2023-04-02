@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\bin\Debug\InotifyPropertyChanged.exe.config
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\bin\Debug\InotifyPropertyChanged.exe
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\bin\Debug\InotifyPropertyChanged.pdb
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\InotifyPropertyChanged.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\InotifyPropertyChanged.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\MainWindow.g.cs
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\App.g.cs
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\InotifyPropertyChanged_MarkupCompile.cache
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\InotifyPropertyChanged_MarkupCompile.lref
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\MainWindow.baml
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\InotifyPropertyChanged.g.resources
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\InotifyPropertyChanged.Properties.Resources.resources
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\InotifyPropertyChanged.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\InotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\InotifyPropertyChanged.exe
+C:\Users\harry\source\repos\InotifyPropertyChanged\InotifyPropertyChanged\obj\Debug\InotifyPropertyChanged.pdb
