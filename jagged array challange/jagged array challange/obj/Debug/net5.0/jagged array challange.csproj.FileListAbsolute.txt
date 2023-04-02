@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\bin\Debug\net5.0\jagged array challange.exe
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\bin\Debug\net5.0\jagged array challange.deps.json
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\bin\Debug\net5.0\jagged array challange.runtimeconfig.json
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\bin\Debug\net5.0\jagged array challange.runtimeconfig.dev.json
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\bin\Debug\net5.0\jagged array challange.dll
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\bin\Debug\net5.0\jagged array challange.pdb
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\obj\Debug\net5.0\jagged array challange.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\obj\Debug\net5.0\jagged array challange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\obj\Debug\net5.0\jagged array challange.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\obj\Debug\net5.0\jagged array challange.AssemblyInfo.cs
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\obj\Debug\net5.0\jagged array challange.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\obj\Debug\net5.0\jagged array challange.dll
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\obj\Debug\net5.0\refint\jagged array challange.dll
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\obj\Debug\net5.0\jagged array challange.pdb
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\obj\Debug\net5.0\jagged array challange.genruntimeconfig.cache
+C:\Users\harry\source\repos\jagged array challange\jagged array challange\obj\Debug\net5.0\ref\jagged array challange.dll
