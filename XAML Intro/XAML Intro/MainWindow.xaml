@@ -1,0 +1,35 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XAML_Intro"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <!-- This is how you comment in XAML-->
+    <Grid>
+        <Button  Height="50" Width="100" FontSize="19">Click Me :)</Button>
+        
+        <!--Multiple syntaxes to write XAML... Both are correct -->
+        <Button Content="Button">
+            <Button.HorizontalAlignment>Left</Button.HorizontalAlignment>
+            <Button.Margin>127,83,0,0</Button.Margin>
+            <Button.VerticalAlignment>Top</Button.VerticalAlignment>
+            <Button.Height>61</Button.Height>
+            <Button.Width>96</Button.Width>
+        </Button>
+        <Button HorizontalAlignment="Left" Margin="227,305,0,0" VerticalAlignment="Top" Height="65" Width="223" FontSize="18">
+            <Button.Content>
+                <WrapPanel>
+                    <TextBlock Foreground="Blue">Multi</TextBlock>
+                    <TextBlock Foreground ="White">Colour</TextBlock>
+                    <TextBlock Foreground="Red">Button</TextBlock>
+                </WrapPanel>
+            </Button.Content>
+                
+        </Button>
+
+
+
+    </Grid>
+</Window>

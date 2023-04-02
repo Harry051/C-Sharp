@@ -1,0 +1,18 @@
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\bin\Debug\XAML Intro.exe.config
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\bin\Debug\XAML Intro.exe
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\bin\Debug\XAML Intro.pdb
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\bin\Debug\XAML Intro.xml
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML Intro.vbproj.AssemblyReference.cache
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML Intro.vbproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\MainWindow.g.vb
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\Application.g.vb
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML Intro_MarkupCompile.cache
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML Intro_MarkupCompile.lref
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\MainWindow.baml
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML Intro.g.resources
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML_Intro.Resources.resources
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML Intro.vbproj.GenerateResource.cache
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML Intro.vbproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML Intro.exe
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML Intro.xml
+C:\Users\harry\source\repos\XAML Intro\XAML Intro\obj\Debug\XAML Intro.pdb
