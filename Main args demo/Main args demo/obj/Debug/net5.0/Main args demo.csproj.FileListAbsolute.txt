@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Main args demo\Main args demo\bin\Debug\net5.0\Main args demo.exe
+C:\Users\harry\source\repos\Main args demo\Main args demo\bin\Debug\net5.0\Main args demo.deps.json
+C:\Users\harry\source\repos\Main args demo\Main args demo\bin\Debug\net5.0\Main args demo.runtimeconfig.json
+C:\Users\harry\source\repos\Main args demo\Main args demo\bin\Debug\net5.0\Main args demo.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Main args demo\Main args demo\bin\Debug\net5.0\Main args demo.dll
+C:\Users\harry\source\repos\Main args demo\Main args demo\bin\Debug\net5.0\Main args demo.pdb
+C:\Users\harry\source\repos\Main args demo\Main args demo\obj\Debug\net5.0\Main args demo.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Main args demo\Main args demo\obj\Debug\net5.0\Main args demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Main args demo\Main args demo\obj\Debug\net5.0\Main args demo.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Main args demo\Main args demo\obj\Debug\net5.0\Main args demo.AssemblyInfo.cs
+C:\Users\harry\source\repos\Main args demo\Main args demo\obj\Debug\net5.0\Main args demo.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Main args demo\Main args demo\obj\Debug\net5.0\Main args demo.dll
+C:\Users\harry\source\repos\Main args demo\Main args demo\obj\Debug\net5.0\refint\Main args demo.dll
+C:\Users\harry\source\repos\Main args demo\Main args demo\obj\Debug\net5.0\Main args demo.pdb
+C:\Users\harry\source\repos\Main args demo\Main args demo\obj\Debug\net5.0\Main args demo.genruntimeconfig.cache
+C:\Users\harry\source\repos\Main args demo\Main args demo\obj\Debug\net5.0\ref\Main args demo.dll
