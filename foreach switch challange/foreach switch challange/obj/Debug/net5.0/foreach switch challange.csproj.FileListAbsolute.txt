@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\bin\Debug\net5.0\foreach switch challange.exe
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\bin\Debug\net5.0\foreach switch challange.deps.json
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\bin\Debug\net5.0\foreach switch challange.runtimeconfig.json
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\bin\Debug\net5.0\foreach switch challange.runtimeconfig.dev.json
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\bin\Debug\net5.0\foreach switch challange.dll
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\bin\Debug\net5.0\foreach switch challange.pdb
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\obj\Debug\net5.0\foreach switch challange.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\obj\Debug\net5.0\foreach switch challange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\obj\Debug\net5.0\foreach switch challange.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\obj\Debug\net5.0\foreach switch challange.AssemblyInfo.cs
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\obj\Debug\net5.0\foreach switch challange.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\obj\Debug\net5.0\foreach switch challange.dll
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\obj\Debug\net5.0\refint\foreach switch challange.dll
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\obj\Debug\net5.0\foreach switch challange.pdb
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\obj\Debug\net5.0\foreach switch challange.genruntimeconfig.cache
+C:\Users\harry\source\repos\foreach switch challange\foreach switch challange\obj\Debug\net5.0\ref\foreach switch challange.dll

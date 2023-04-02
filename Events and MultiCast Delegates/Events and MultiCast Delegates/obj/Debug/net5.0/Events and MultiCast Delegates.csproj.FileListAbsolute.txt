@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\bin\Debug\net5.0\Events and MultiCast Delegates.exe
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\bin\Debug\net5.0\Events and MultiCast Delegates.deps.json
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\bin\Debug\net5.0\Events and MultiCast Delegates.runtimeconfig.json
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\bin\Debug\net5.0\Events and MultiCast Delegates.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\bin\Debug\net5.0\Events and MultiCast Delegates.dll
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\bin\Debug\net5.0\Events and MultiCast Delegates.pdb
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\obj\Debug\net5.0\Events and MultiCast Delegates.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\obj\Debug\net5.0\Events and MultiCast Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\obj\Debug\net5.0\Events and MultiCast Delegates.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\obj\Debug\net5.0\Events and MultiCast Delegates.AssemblyInfo.cs
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\obj\Debug\net5.0\Events and MultiCast Delegates.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\obj\Debug\net5.0\Events and MultiCast Delegates.dll
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\obj\Debug\net5.0\refint\Events and MultiCast Delegates.dll
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\obj\Debug\net5.0\Events and MultiCast Delegates.pdb
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\obj\Debug\net5.0\Events and MultiCast Delegates.genruntimeconfig.cache
+C:\Users\harry\source\repos\Events and MultiCast Delegates\Events and MultiCast Delegates\obj\Debug\net5.0\ref\Events and MultiCast Delegates.dll
