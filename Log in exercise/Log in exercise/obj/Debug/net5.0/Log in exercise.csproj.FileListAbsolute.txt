@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\bin\Debug\net5.0\Log in exercise.exe
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\bin\Debug\net5.0\Log in exercise.deps.json
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\bin\Debug\net5.0\Log in exercise.runtimeconfig.json
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\bin\Debug\net5.0\Log in exercise.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\bin\Debug\net5.0\Log in exercise.dll
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\bin\Debug\net5.0\Log in exercise.pdb
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\obj\Debug\net5.0\Log in exercise.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\obj\Debug\net5.0\Log in exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\obj\Debug\net5.0\Log in exercise.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\obj\Debug\net5.0\Log in exercise.AssemblyInfo.cs
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\obj\Debug\net5.0\Log in exercise.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\obj\Debug\net5.0\Log in exercise.dll
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\obj\Debug\net5.0\refint\Log in exercise.dll
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\obj\Debug\net5.0\Log in exercise.pdb
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\obj\Debug\net5.0\Log in exercise.genruntimeconfig.cache
+C:\Users\harry\source\repos\Log in exercise\Log in exercise\obj\Debug\net5.0\ref\Log in exercise.dll
