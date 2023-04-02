@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\bin\Debug\net5.0\2d loop challange 1.exe
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\bin\Debug\net5.0\2d loop challange 1.deps.json
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\bin\Debug\net5.0\2d loop challange 1.runtimeconfig.json
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\bin\Debug\net5.0\2d loop challange 1.runtimeconfig.dev.json
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\bin\Debug\net5.0\2d loop challange 1.dll
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\bin\Debug\net5.0\2d loop challange 1.pdb
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\obj\Debug\net5.0\2d loop challange 1.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\obj\Debug\net5.0\2d loop challange 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\obj\Debug\net5.0\2d loop challange 1.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\obj\Debug\net5.0\2d loop challange 1.AssemblyInfo.cs
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\obj\Debug\net5.0\2d loop challange 1.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\obj\Debug\net5.0\2d loop challange 1.dll
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\obj\Debug\net5.0\refint\2d loop challange 1.dll
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\obj\Debug\net5.0\2d loop challange 1.pdb
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\obj\Debug\net5.0\2d loop challange 1.genruntimeconfig.cache
+C:\Users\harry\source\repos\2d loop challange 1\2d loop challange 1\obj\Debug\net5.0\ref\2d loop challange 1.dll

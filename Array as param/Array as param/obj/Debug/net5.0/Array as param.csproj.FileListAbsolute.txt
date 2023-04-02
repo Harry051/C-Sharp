@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Array as param\Array as param\bin\Debug\net5.0\Array as param.exe
+C:\Users\harry\source\repos\Array as param\Array as param\bin\Debug\net5.0\Array as param.deps.json
+C:\Users\harry\source\repos\Array as param\Array as param\bin\Debug\net5.0\Array as param.runtimeconfig.json
+C:\Users\harry\source\repos\Array as param\Array as param\bin\Debug\net5.0\Array as param.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Array as param\Array as param\bin\Debug\net5.0\Array as param.dll
+C:\Users\harry\source\repos\Array as param\Array as param\bin\Debug\net5.0\Array as param.pdb
+C:\Users\harry\source\repos\Array as param\Array as param\obj\Debug\net5.0\Array as param.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Array as param\Array as param\obj\Debug\net5.0\Array as param.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Array as param\Array as param\obj\Debug\net5.0\Array as param.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Array as param\Array as param\obj\Debug\net5.0\Array as param.AssemblyInfo.cs
+C:\Users\harry\source\repos\Array as param\Array as param\obj\Debug\net5.0\Array as param.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Array as param\Array as param\obj\Debug\net5.0\Array as param.dll
+C:\Users\harry\source\repos\Array as param\Array as param\obj\Debug\net5.0\refint\Array as param.dll
+C:\Users\harry\source\repos\Array as param\Array as param\obj\Debug\net5.0\Array as param.pdb
+C:\Users\harry\source\repos\Array as param\Array as param\obj\Debug\net5.0\Array as param.genruntimeconfig.cache
+C:\Users\harry\source\repos\Array as param\Array as param\obj\Debug\net5.0\ref\Array as param.dll
