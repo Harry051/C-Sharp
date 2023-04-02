@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\bin\Debug\net5.0\Inheritance Challange 1.exe
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\bin\Debug\net5.0\Inheritance Challange 1.deps.json
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\bin\Debug\net5.0\Inheritance Challange 1.runtimeconfig.json
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\bin\Debug\net5.0\Inheritance Challange 1.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\bin\Debug\net5.0\Inheritance Challange 1.dll
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\bin\Debug\net5.0\Inheritance Challange 1.pdb
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\obj\Debug\net5.0\Inheritance Challange 1.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\obj\Debug\net5.0\Inheritance Challange 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\obj\Debug\net5.0\Inheritance Challange 1.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\obj\Debug\net5.0\Inheritance Challange 1.AssemblyInfo.cs
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\obj\Debug\net5.0\Inheritance Challange 1.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\obj\Debug\net5.0\Inheritance Challange 1.dll
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\obj\Debug\net5.0\refint\Inheritance Challange 1.dll
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\obj\Debug\net5.0\Inheritance Challange 1.pdb
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\obj\Debug\net5.0\Inheritance Challange 1.genruntimeconfig.cache
+C:\Users\harry\source\repos\Inheritance Challange 1\Inheritance Challange 1\obj\Debug\net5.0\ref\Inheritance Challange 1.dll
