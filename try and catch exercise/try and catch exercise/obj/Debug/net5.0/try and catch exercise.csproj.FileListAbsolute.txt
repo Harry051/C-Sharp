@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\bin\Debug\net5.0\try and catch exercise.exe
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\bin\Debug\net5.0\try and catch exercise.deps.json
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\bin\Debug\net5.0\try and catch exercise.runtimeconfig.json
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\bin\Debug\net5.0\try and catch exercise.runtimeconfig.dev.json
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\bin\Debug\net5.0\try and catch exercise.dll
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\bin\Debug\net5.0\try and catch exercise.pdb
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\obj\Debug\net5.0\try and catch exercise.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\obj\Debug\net5.0\try and catch exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\obj\Debug\net5.0\try and catch exercise.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\obj\Debug\net5.0\try and catch exercise.AssemblyInfo.cs
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\obj\Debug\net5.0\try and catch exercise.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\obj\Debug\net5.0\try and catch exercise.dll
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\obj\Debug\net5.0\refint\try and catch exercise.dll
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\obj\Debug\net5.0\try and catch exercise.pdb
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\obj\Debug\net5.0\try and catch exercise.genruntimeconfig.cache
+C:\Users\harry\source\repos\try and catch exercise\try and catch exercise\obj\Debug\net5.0\ref\try and catch exercise.dll
