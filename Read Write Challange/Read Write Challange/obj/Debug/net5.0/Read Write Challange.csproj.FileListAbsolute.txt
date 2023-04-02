@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\bin\Debug\net5.0\Read Write Challange.exe
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\bin\Debug\net5.0\Read Write Challange.deps.json
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\bin\Debug\net5.0\Read Write Challange.runtimeconfig.json
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\bin\Debug\net5.0\Read Write Challange.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\bin\Debug\net5.0\Read Write Challange.dll
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\bin\Debug\net5.0\Read Write Challange.pdb
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\obj\Debug\net5.0\Read Write Challange.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\obj\Debug\net5.0\Read Write Challange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\obj\Debug\net5.0\Read Write Challange.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\obj\Debug\net5.0\Read Write Challange.AssemblyInfo.cs
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\obj\Debug\net5.0\Read Write Challange.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\obj\Debug\net5.0\Read Write Challange.dll
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\obj\Debug\net5.0\refint\Read Write Challange.dll
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\obj\Debug\net5.0\Read Write Challange.pdb
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\obj\Debug\net5.0\Read Write Challange.genruntimeconfig.cache
+C:\Users\harry\source\repos\Read Write Challange\Read Write Challange\obj\Debug\net5.0\ref\Read Write Challange.dll

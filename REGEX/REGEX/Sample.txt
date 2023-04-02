@@ -1,0 +1,34 @@
+﻿123456789
+			
+
+073456789
+079876543
+020-7324-9618
+
+0175/12345678 
++49165/12312345
+0049165/12312345
+
+
+https://www.youtube.com
+https://www.bbc.co.uk
+http://www.google.eu
+http://www.google.eu
+http?.://(www.)?(\w+)\w+.\w+.\w+
+
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+Mr. Smith
+Mr Jones
+Mrs Williams
+Ms Baker
+Rev Jackson
+[\w]{2,3}.?\.? [A-Z]+
+
+mail@mail.com
+
+//Meta Character (Need to be escaped using \)
+.[{(\^$|?*+
+
+Can make own REGEX's but often easier just to google them

@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\REGEX\REGEX\bin\Debug\net5.0\REGEX.exe
+C:\Users\harry\source\repos\REGEX\REGEX\bin\Debug\net5.0\REGEX.deps.json
+C:\Users\harry\source\repos\REGEX\REGEX\bin\Debug\net5.0\REGEX.runtimeconfig.json
+C:\Users\harry\source\repos\REGEX\REGEX\bin\Debug\net5.0\REGEX.runtimeconfig.dev.json
+C:\Users\harry\source\repos\REGEX\REGEX\bin\Debug\net5.0\REGEX.dll
+C:\Users\harry\source\repos\REGEX\REGEX\bin\Debug\net5.0\REGEX.pdb
+C:\Users\harry\source\repos\REGEX\REGEX\obj\Debug\net5.0\REGEX.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\REGEX\REGEX\obj\Debug\net5.0\REGEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\REGEX\REGEX\obj\Debug\net5.0\REGEX.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\REGEX\REGEX\obj\Debug\net5.0\REGEX.AssemblyInfo.cs
+C:\Users\harry\source\repos\REGEX\REGEX\obj\Debug\net5.0\REGEX.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\REGEX\REGEX\obj\Debug\net5.0\REGEX.dll
+C:\Users\harry\source\repos\REGEX\REGEX\obj\Debug\net5.0\refint\REGEX.dll
+C:\Users\harry\source\repos\REGEX\REGEX\obj\Debug\net5.0\REGEX.pdb
+C:\Users\harry\source\repos\REGEX\REGEX\obj\Debug\net5.0\REGEX.genruntimeconfig.cache
+C:\Users\harry\source\repos\REGEX\REGEX\obj\Debug\net5.0\ref\REGEX.dll
