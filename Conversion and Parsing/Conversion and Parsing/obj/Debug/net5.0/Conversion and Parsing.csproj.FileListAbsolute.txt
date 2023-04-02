@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\bin\Debug\net5.0\Conversion and Parsing.exe
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\bin\Debug\net5.0\Conversion and Parsing.deps.json
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\bin\Debug\net5.0\Conversion and Parsing.runtimeconfig.json
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\bin\Debug\net5.0\Conversion and Parsing.runtimeconfig.dev.json
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\bin\Debug\net5.0\Conversion and Parsing.dll
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\bin\Debug\net5.0\Conversion and Parsing.pdb
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\obj\Debug\net5.0\Conversion and Parsing.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\obj\Debug\net5.0\Conversion and Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\obj\Debug\net5.0\Conversion and Parsing.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\obj\Debug\net5.0\Conversion and Parsing.AssemblyInfo.cs
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\obj\Debug\net5.0\Conversion and Parsing.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\obj\Debug\net5.0\Conversion and Parsing.dll
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\obj\Debug\net5.0\refint\Conversion and Parsing.dll
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\obj\Debug\net5.0\Conversion and Parsing.pdb
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\obj\Debug\net5.0\Conversion and Parsing.genruntimeconfig.cache
+C:\Users\harry\source\repos\Conversion and Parsing\Conversion and Parsing\obj\Debug\net5.0\ref\Conversion and Parsing.dll

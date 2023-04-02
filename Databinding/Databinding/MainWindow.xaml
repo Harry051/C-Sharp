@@ -1,0 +1,29 @@
+﻿<Window x:Class="Databinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Databinding"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    <!--
+    4 Modes of Data Binding:
+    
+    Binding Target:      <- one way              Binding Source
+    Binding Target:      <- two way ->           Binding Source
+    Binding Target:        oneWayToSource ->     Binding Source
+    Binding Target:      <_ _ _ OneTime          Binding Source - done in constructor so only once during intitialization
+    -->
+
+    <StackPanel>
+               
+        <TextBox Name="MyTextBox" Width="100" Margin="50" Text="{Binding ElementName=MySlider, Path=Value, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+        <Slider Name="MySlider" Minimum="0" Maximum="100" IsSnapToTickEnabled="True"/>
+
+        <!-- A bit crude but here's a colour maker for hex codes -->
+        <TextBox Name="ColourTextBox" Text="#FF000000" Width="150" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="100" TextChanged="ColourTextBox_TextChanged"/>
+        <Button Name="ColourButton" Width="50" Height="50" VerticalAlignment="Center" HorizontalAlignment="Stretch"
+                Background="{Binding ElementName=ColourTextBox, Path=Text,Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+    </StackPanel>
+</Window>

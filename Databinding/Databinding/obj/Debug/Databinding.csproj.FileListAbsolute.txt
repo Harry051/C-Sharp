@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Databinding\Databinding\bin\Debug\Databinding.exe.config
+C:\Users\harry\source\repos\Databinding\Databinding\bin\Debug\Databinding.exe
+C:\Users\harry\source\repos\Databinding\Databinding\bin\Debug\Databinding.pdb
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\Databinding.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\Databinding.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\MainWindow.g.cs
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\App.g.cs
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\Databinding_MarkupCompile.cache
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\Databinding_MarkupCompile.lref
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\MainWindow.baml
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\Databinding.g.resources
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\Databinding.Properties.Resources.resources
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\Databinding.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\Databinding.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\Databinding.exe
+C:\Users\harry\source\repos\Databinding\Databinding\obj\Debug\Databinding.pdb
