@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\bin\Debug\net5.0\2d array and nested loops.exe
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\bin\Debug\net5.0\2d array and nested loops.deps.json
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\bin\Debug\net5.0\2d array and nested loops.runtimeconfig.json
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\bin\Debug\net5.0\2d array and nested loops.runtimeconfig.dev.json
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\bin\Debug\net5.0\2d array and nested loops.dll
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\bin\Debug\net5.0\2d array and nested loops.pdb
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\obj\Debug\net5.0\2d array and nested loops.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\obj\Debug\net5.0\2d array and nested loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\obj\Debug\net5.0\2d array and nested loops.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\obj\Debug\net5.0\2d array and nested loops.AssemblyInfo.cs
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\obj\Debug\net5.0\2d array and nested loops.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\obj\Debug\net5.0\2d array and nested loops.dll
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\obj\Debug\net5.0\refint\2d array and nested loops.dll
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\obj\Debug\net5.0\2d array and nested loops.pdb
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\obj\Debug\net5.0\2d array and nested loops.genruntimeconfig.cache
+C:\Users\harry\source\repos\2d array and nested loops\2d array and nested loops\obj\Debug\net5.0\ref\2d array and nested loops.dll
