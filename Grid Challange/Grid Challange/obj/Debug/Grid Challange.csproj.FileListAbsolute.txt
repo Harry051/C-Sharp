@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\bin\Debug\Grid Challange.exe.config
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\bin\Debug\Grid Challange.exe
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\bin\Debug\Grid Challange.pdb
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\Grid Challange.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\Grid Challange.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\MainWindow.g.cs
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\App.g.cs
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\Grid Challange_MarkupCompile.cache
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\Grid Challange_MarkupCompile.lref
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\MainWindow.baml
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\Grid Challange.g.resources
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\Grid_Challange.Properties.Resources.resources
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\Grid Challange.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\Grid Challange.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\Grid Challange.exe
+C:\Users\harry\source\repos\Grid Challange\Grid Challange\obj\Debug\Grid Challange.pdb
