@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\bin\Debug\Property Data and Event Triggers.exe.config
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\bin\Debug\Property Data and Event Triggers.exe
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\bin\Debug\Property Data and Event Triggers.pdb
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\Property Data and Event Triggers.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\Property Data and Event Triggers.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\MainWindow.g.cs
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\App.g.cs
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\Property Data and Event Triggers_MarkupCompile.cache
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\Property Data and Event Triggers_MarkupCompile.lref
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\MainWindow.baml
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\Property Data and Event Triggers.g.resources
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\Property_Data_and_Event_Triggers.Properties.Resources.resources
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\Property Data and Event Triggers.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\Property Data and Event Triggers.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\Property Data and Event Triggers.exe
+C:\Users\harry\source\repos\Property Data and Event Triggers\Property Data and Event Triggers\obj\Debug\Property Data and Event Triggers.pdb
