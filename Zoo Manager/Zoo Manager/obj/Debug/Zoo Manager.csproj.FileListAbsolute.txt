@@ -1,0 +1,16 @@
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\bin\Debug\Zoo Manager.exe.config
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\bin\Debug\Zoo Manager.exe
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\bin\Debug\Zoo Manager.pdb
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\Zoo Manager.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\Zoo Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\MainWindow.g.cs
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\App.g.cs
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\Zoo Manager_MarkupCompile.cache
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\Zoo Manager_MarkupCompile.lref
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\MainWindow.baml
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\Zoo Manager.g.resources
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\Zoo_Manager.Properties.Resources.resources
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\Zoo Manager.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\Zoo Manager.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\Zoo Manager.exe
+C:\Users\harry\source\repos\Zoo Manager\Zoo Manager\obj\Debug\Zoo Manager.pdb

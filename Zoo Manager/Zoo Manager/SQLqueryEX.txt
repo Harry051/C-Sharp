@@ -1,0 +1,3 @@
+﻿--SELECT * FROM Animal
+--SELECT * FROM Zoo
+SELECT a.Name FROM Animal a inner join ZooAnimal za on a.Id = za.AnimalId WHERE za.ZooId = 5
