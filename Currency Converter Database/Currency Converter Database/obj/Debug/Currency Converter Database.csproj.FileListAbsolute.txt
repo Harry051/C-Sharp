@@ -1,0 +1,20 @@
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\bin\Debug\Currency Converter Database.exe.config
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\bin\Debug\Currency Converter Database.exe
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\bin\Debug\Currency Converter Database.pdb
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency Converter Database.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency Converter Database.csproj.SuggestedBindingRedirects.cache
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\MainWindow.g.cs
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\App.g.cs
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency Converter Database_MarkupCompile.cache
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency Converter Database_MarkupCompile.lref
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\MainWindow.baml
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency Converter Database.g.resources
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency_Converter_Database.Properties.Resources.resources
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency Converter Database.csproj.GenerateResource.cache
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency Converter Database.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency Converter Database.exe
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency Converter Database.pdb
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\Currency Converter Database_Content.g.cs
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\bin\Debug\Database\CurrencyConverter.mdf
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\bin\Debug\Database\CurrencyConverter_log.ldf
+C:\Users\harry\source\repos\Currency Converter Database\Currency Converter Database\obj\Debug\App.baml
